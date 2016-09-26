@@ -1,2 +1,1 @@
-I have modified the first line in file1 .This is the first line in File1.
-This is the second line in File1.
+This is  file  1 after some changes.
