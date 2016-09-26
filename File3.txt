@@ -1,2 +1,1 @@
-This is my third file line1.
-This is my third file line2.
+file 3 modified 1 line instead of 2
