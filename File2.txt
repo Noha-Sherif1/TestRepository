@@ -1,1 +1,1 @@
-File2 changed.
+File2 changed. One line added. Changed again.
